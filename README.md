@@ -1,4 +1,4 @@
-# Argiope
+# argiope
 
 ![Argiope quadruped spider bot](assets/fusion_top.png)
 
