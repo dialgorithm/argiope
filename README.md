@@ -29,10 +29,9 @@ This separation keeps gait computation independent from the low-level servo cont
 
 Final 3D views of the Argiope quadruped robot.
 
-| Top view | Bottom view | Side view |
-| -------- | ----------- | --------- |
-
-| ![top view](assets/fusion_top.png) | ![bottom view](assets/fusion_bottom.png) | ![side view](assets/fusion_side.png) |
+|              Top view              |               Bottom view                |              Side view               |
+| :--------------------------------: | :--------------------------------------: | :----------------------------------: |
+| ![Top view](assets/fusion_top.png) | ![Bottom view](assets/fusion_bottom.png) | ![Side view](assets/fusion_side.png) |
 
 The mechanical structure was designed to accommodate the four legs, servo motors, electronics, and required mounting points while maintaining a balanced and compact layout.
 
